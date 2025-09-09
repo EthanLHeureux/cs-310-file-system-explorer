@@ -1,0 +1,2 @@
+1. os.listdir()
+2. Contains the args passed into the script when ran.
